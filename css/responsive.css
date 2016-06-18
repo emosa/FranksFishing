@@ -1,0 +1,539 @@
+@media (max-width: 1040px) {
+
+#project-2 li {
+    float: left;
+    width: 100%;
+}
+
+#project-2 li .hw-expand {
+    position: relative;
+	width:100%;
+}
+.logo a img {
+    width:70%;
+}
+}
+
+@media (max-width: 767px) {
+
+#cssmenu {
+    height: 75vh;
+    overflow: scroll;
+}
+
+.container {
+	max-width:485px;
+	width:100%;
+	margin:0 auto;
+}
+
+}
+
+@media (max-width: 1200px) {
+
+.container {
+	max-width:100%;
+	width:100%;
+	margin:0 auto;
+}
+
+.ts-main-left {
+	width: 100%;
+	padding:0;
+}
+
+.ts-main-center {
+	width: 100%;
+	background: #fff;
+	padding: 40px 40px;
+    padding-bottom: 0px;
+}
+
+.vertical-menu {
+    position: relative;
+    width: 100%;
+}
+
+#cssmenu > ul > li a:before {
+	display:none !important;
+}
+
+.ts-main-right {
+	width: 100%;
+}
+
+.body {
+	padding:0px;
+}
+
+.cf-info ul {
+    padding: 8px 34px 0px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 50px;
+    background: none repeat scroll 0% 0% #FFF;
+}
+
+.ts-main-left {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.ts-social {
+    padding: 0px;
+    display: table;
+    float: none;
+    margin: 21px auto;
+}
+
+#nav_menu > ul > li i {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    line-height: 32px;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    display: table;
+    margin: 0px 015px;
+    float: left;
+}
+
+#nav_menu > ul > li > a {
+    padding: 8px 11px;
+}
+
+#nav_menu > ul > li > a {
+    color: #fff !important;
+    height: 52px;
+    padding: 8px 11px;
+    text-align: left;
+    line-height: 38px;
+}
+
+#nav_menu > ul > li:after {
+	display:none !important;
+}
+
+#nav_menu > ul > li {
+    border-right:none;
+    border-bottom: 1px solid #666;
+    margin: 0 0 -1px;
+}
+
+#nav_menu ul ul li a {
+    padding: 0px 20px 0px 30px;
+    font-size: 13px;
+    color: #fff;
+}
+
+#nav_menu #menu-button {
+    border: 1px solid #e2e2e2;
+    line-height: 9px;
+    color: #000 !important;
+    font-size: 15px !important;
+    opacity: 1;
+    visibility: visible;
+    display: block;
+	margin-top:-25px;
+}
+
+#nav_menu .submenu-button:before ,
+#nav_menu .submenu-button:after {
+    content: "";
+    background: #FFF;
+}
+
+#nav_menu {
+	background: transparent;
+	height: 52px !important;
+}
+
+.flex-caption {
+	display:none;
+}
+
+#services ul li {
+    width: 100%;
+    float: left;
+    list-style: outside none none;
+    margin-bottom: 15px;
+}
+
+.hb-info {
+	margin-bottom:30px;
+}
+
+.hw-info h4 {
+    font-size: 16px;
+    padding: 14px 19px;
+    top: 10px;
+    left: 10px;
+}
+
+#tabs li a i {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    color: #FFF;
+    font-size: 21px;
+}
+
+.thumbs {
+    padding: 46px 14px;
+    overflow: hidden;
+    margin: 0px auto;
+    display: table;
+    float: none;
+}
+
+.thumbs li {
+    list-style: outside none none;
+    float: none;
+	margin-bottom:10px;
+
+}
+
+#verticalTab2 .resp-tabs-container {
+    float: right;
+    width: 100%;
+}
+
+.btn-bdr {
+    display: table;
+    height: 39px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    color: #000;
+    padding: 0px 14px;
+    line-height: 39px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}	
+
+footer {
+    background: -webkit-linear-gradient(#43A9FF, #0043A8);
+    padding: 35px 10px;
+    margin-left: -40px;
+    width: 119.2%;
+}
+
+footer p {
+	text-align:center;
+}
+
+.f-social {
+    padding: 0px;
+    display: table;
+    float: none;
+    margin: 14px auto 0;
+}
+
+.ts-main-right {
+    width: 100%;
+    background: none repeat scroll 0% 0% #EFF2F5;
+    padding: 0 40px;
+}
+
+#services2 ul {
+    padding: 25px 0;
+}
+
+h2.resp-accordion {
+    font-size: 13px;
+    margin: 0px;
+    padding: 16px 15px;
+}
+
+.pricing-table {
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+#icons-wrap ul li {
+    float: left;
+    list-style: outside none none;
+    width: 100%;
+}
+
+.ch-white p {
+	background:none !important;
+}
+
+#services2 ul li {
+    float: left;
+    width: 100%;
+}
+
+.content-head p {
+    padding: 0px 0px;
+}
+
+.newsletter {
+	background-size:auto 100%;
+}
+
+.skill-wrap {
+    margin: 0 auto;
+}
+
+.round-skills h4 {
+    margin: 20px 0px 20px;
+}
+
+#timeline li {
+    float: left;
+    width: 100%;
+	margin: 57px 0px -0px !important;
+}
+
+.t-left:after {
+    content: "";
+    border-width: 0 10px 10px 10px;
+    border-color: #000 transparent;
+    right: 0;
+    top: -11px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+}
+
+.t-right:after {
+    content: "";
+    border-width: 0 10px 10px 10px;
+    border-color: #000 transparent;
+    right: 0;
+    top: -11px;
+    left: 0px !important;
+    right: 0px !important;
+    margin: 0px auto;
+}
+
+#timeline li:last-child {
+	margin: 57px 0px -0px !important;
+}
+
+#timeline:before {
+    content: "";
+    position: absolute;
+    top: 10px;
+}
+
+.t-left:before ,
+.t-right:before {
+	display:none;
+}
+
+.bread_crumbs {
+    padding: 0px;
+    margin: 0px auto;
+    display: table;
+    float: none;
+}
+
+.page-header h3 {
+    color: #4A5768;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 14px;
+}
+
+}
+
+@media (max-width: 1200px) {
+
+.resp-vtabs .resp-tab-content {
+   border: none !important;
+}
+
+h2.resp-tab-active {
+    margin-bottom: 0px !important;
+    padding: 0px 0px !important;
+}
+
+h2.resp-tab-active span.resp-arrow, .resp-arrow {
+    display: none;
+}
+
+#verticalTab2 .resp-tab-content {
+    display: none;
+    padding: 22px 22px 15px;
+}
+
+.resp-vtabs .resp-tabs-container:before {
+	display:none;
+}
+
+h2.resp-accordion {
+    padding: 15px 0;
+    border-bottom: 1px solid #c1c1c1;
+}
+
+h2.resp-accordion img {
+    width: 85px;
+    height: 85px;
+    border: 10px solid #37a4d8;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+h2.resp-tab-active img {
+    width: 100%;
+    height: auto;
+    border: 0px solid #37a4d8;
+    border-radius: 0%;
+    margin: 0 auto;
+max-height: 125px;
+}
+
+#services2 img {
+	display:table;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#verticalTab h2.resp-accordion {
+    margin-bottom: 0px !important;
+    padding: 14px 25px 20px !important;
+    background: none repeat scroll 0% 0% #FFF !important;
+    color: #000 !important;
+    line-height: 1px !important;
+border-bottom: none !important;
+border-top: 1px solid #EEE !important;
+}
+
+#verticalTab h2.resp-accordion:last-child {
+border-bottom: 1px solid #EEE !important;
+}
+
+#verticalTab h2.resp-accordion i {
+    color: #000 !important;
+    font-size: 24px;
+    margin-right: 15px;
+	position:relative;
+	top:5px;
+
+}
+
+#verticalTab h2.resp-tab-active {
+    margin-bottom: 0px !important;
+    padding: 14px 25px 20px !important;
+    color: #000 !important;
+    line-height: 1px !important;
+}
+
+#verticalTab h2.resp-tab-active i {
+    color: #000 !important;
+    font-size: 24px;
+    margin-right: 15px;
+    position:relative;
+    top:5px;
+}
+
+#verticalTab .resp-tab-content {
+    border: none;
+    border-bottom: 1px solid #EEE;
+}
+
+#verticalTab h2.resp-accordion:first-child {
+    border-top: none !important;
+}
+
+#verticalTab h2.resp-accordion:last-child {
+    border-bottom: none !important;
+}
+
+.resp-tabs-container p {
+    font-size: 13px;
+}
+
+#verticalTab2 .resp-tabs-container {
+    float: right;
+    width: 100%;
+}
+
+}
+
+@media (max-width: 421px) {
+
+
+}
+
+
+@media only screen and (min-width: 1100px) and (max-width: 1200px) {
+
+.t-left:before {
+	right: -26.5%;
+}
+
+.t-right:before {
+	left: -26.5%;
+}
+
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1190px) {
+
+#home-blog .col-md-4 {
+	margin-bottom:20px;
+}
+
+.container {
+	max-width:90%;
+	width:100%;
+	margin:0 auto;
+}
+
+.ts-main-left {
+	width: 30%;
+	padding:0;
+	float:left;
+}
+
+.ts-main-center {
+	width: 70%;
+	background: #fff;
+	padding: 40px 20px;
+	float:left;
+    padding-bottom: 0px;
+}
+
+.vertical-menu {
+    position: relative;
+    width: 100%;
+}
+
+#services ul li {
+    width: 100%;
+    float: left;
+    list-style: outside none none;
+}
+
+}
+
+@media only screen and (min-width: 850px) and (max-width: 1100px) {
+
+
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1150px) {
+
+}
+
+@media only screen and (min-width: 1051px) and (max-width: 1150px) {
+
+
+}
+
+
+
